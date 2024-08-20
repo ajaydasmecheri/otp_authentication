@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801850919152",
+    "project_id": "otpauth-b9aff",
+    "storage_bucket": "otpauth-b9aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801850919152:android:8b726aa93d361c38c6da35",
+        "android_client_info": {
+          "package_name": "com.example.otpauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqh-jRGkaBp63vB1vul6L3XsEXgkc3rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

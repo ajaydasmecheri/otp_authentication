@@ -1,0 +1,13 @@
+otp auth issues fixes
+
+install jdk 11 version
+path c\java\jdkversion\files
+
+envi vari path and java home (not need bin location)
+
+
+vs code
+
+file>android>./gradlew signingReport     
+
+get sha1 and sha256
